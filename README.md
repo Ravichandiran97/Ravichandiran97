@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm RAVICHANDIRAN.E</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=200&section=header&text=RAVICHANDIRAN.E&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=55&descSize=20" alt="Banner" width="100%"/>
+</p>
+
 <h3 align="center">A passionate Data Analyst turning raw data into actionable insights</h3>
 
 <p align="center">
@@ -53,6 +56,14 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ravichandiran97&theme=tokyonight&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ravichandiran97/Ravichandiran97/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </p>
 
 ---
