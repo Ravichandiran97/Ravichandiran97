@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9933,50:FFFFFF,100:138808&height=200&section=header&text=RAVICHANDIRAN.E&fontSize=50&fontColor=1A1A40&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=55&descSize=20&descColor=1A1A40" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:138808,50:000000,100:ffffff&height=200&section=header&text=RAVICHANDIRAN.E&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=55&descSize=20" alt="Banner" width="100%"/>
 </p>
 
 <h3 align="center">A passionate Data Analyst turning raw data into actionable insights</h3>
