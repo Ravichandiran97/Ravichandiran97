@@ -60,10 +60,10 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🏙️ Contribution City (3D Isometric)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ravichandiran97/Ravichandiran97/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Ravichandiran97&theme=dark&stats=true" alt="Isometric Contributions" width="100%"/>
 </p>
 
 ---
